@@ -1,0 +1,1 @@
+mvn dado:hello2 -Dmsg=${basedir}
