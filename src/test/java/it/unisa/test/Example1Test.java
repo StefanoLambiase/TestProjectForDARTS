@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
 
 public class Example1Test {
     private String testString;
+    private String testString2;
 
     @Before
     public void setUp() throws Exception {
