@@ -21,8 +21,8 @@ public class Example1Test{
     @Test
     public void test2() {
         new Example1().doSomething(2);
-int a = 4;
-assert(a > 2);
+        int a = 4;
+        assert(a > 2);
     }
     
      @Test
