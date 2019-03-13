@@ -26,7 +26,7 @@ public class ExampleTest {
     }
     
      @Test
-    public void test3(){
+    public void test4(){
         new Example().doSomething(22);
     }
 
