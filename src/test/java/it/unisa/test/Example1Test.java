@@ -14,6 +14,6 @@ public class Example1Test {
     }
 
     @Test
-    public void doSomething() {
+    public void doSomething1() {
     }
 }
