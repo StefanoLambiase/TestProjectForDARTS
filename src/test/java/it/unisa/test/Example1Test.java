@@ -16,6 +16,6 @@ public class Example1Test {
 
     @Test
     public void doSomething1() {
-
+        System.out.println(testString);
     }
 }
