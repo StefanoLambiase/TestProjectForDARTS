@@ -18,6 +18,8 @@ public class ExampleTest {
     @Test
     public void test1() {
         new Example().doSomething(1);
+        new Example().doSomething(1);
+        new Example().doSomething2(22);
     }
 
     @Test
