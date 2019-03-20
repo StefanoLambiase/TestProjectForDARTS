@@ -3,7 +3,9 @@ package it.unisa.test;
 import org.junit.Before;
 import org.junit.Test;
 
-
+/**
+ * GENERAL FIXTURE
+ */
 public class Example1Test {
     private String testString;
     private String testString1;

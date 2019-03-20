@@ -5,31 +5,31 @@
  */
 package it.unisa.test;
 
-import it.unisa.progetto.Example;
+import it.unisa.progetto.Example0;
 
 import org.junit.Test;
 
 /**
- *
+ * EAGER TEST
  * @author Rembor
  */
-public class ExampleTest {
+public class Example0Test {
 
     @Test
     public void test1() {
-        new Example().doSomething(1);
-        new Example().doSomething(1);
-        new Example().doSomething2(22);
+        new Example0().doSomething(1);
+        new Example0().doSomething(1);
+        new Example0().doSomething2(22);
     }
 
     @Test
     public void test2() {
-        new Example().doSomething(2);
+        new Example0().doSomething(2);
     }
     
      @Test
     public void test3(){
-        new Example().doSomething(22);
+        new Example0().doSomething(22);
     }
 
 }
