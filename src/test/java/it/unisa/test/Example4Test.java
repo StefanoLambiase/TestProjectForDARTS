@@ -12,7 +12,7 @@ public class Example4Test {
 
     @Before
     public void setUp() throws Exception {
-        testString = "miaow1";
+        testString = "test";
     }
 
     @Test
@@ -24,7 +24,10 @@ public class Example4Test {
 
     @Test
     public void test2() {
-        new Example4().doSomething(2);
+        new Example4().doSomething(1);
+        new Example4().doSomething(1);
+        new Example4().doSomething2(22);
+        new Example4().doSomething3(1);
     }
 
     @Test

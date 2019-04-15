@@ -25,6 +25,18 @@ public class Example4 {
         }
     }
 
+    public void doSomething3(int p) {
+        if (p == 1) {
+            a();
+        }
+        else if(p==22){
+            c();
+        }
+        else {
+            b();
+        }
+    }
+
     private void a() {
         System.out.println("a");
     }
