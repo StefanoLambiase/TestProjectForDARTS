@@ -10,7 +10,7 @@ import it.unisa.progetto.Example0;
 import org.junit.Test;
 
 /**
- * EAGER TEST
+ * EAGER TEST1
  * @author Rembor
  */
 public class Example0Test {
