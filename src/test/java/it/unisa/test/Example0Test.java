@@ -20,6 +20,7 @@ public class Example0Test {
         new Example0().doSomething(1);
         new Example0().doSomething(1);
         new Example0().doSomething2(22);
+        new Example0().doSomething2(22);
     }
 
     @Test
